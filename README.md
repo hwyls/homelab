@@ -13,6 +13,10 @@ This simple project consists of setting up a Kali Linux Virtual Machine on VMWar
 - <b>Linux</b> (Kali Distribution)
 - <b>MacOS</b>
 
+
+
+<!--
+ ```
 <h2>Program walk-through (pending):</h2>
 
 <p align="center">
@@ -43,3 +47,5 @@ Sanitization complete:  <br/>
 Observe the wiped disk:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+```
+--!>
